@@ -1,0 +1,4 @@
+pojemność dysku:426GB
+ilość pamięci RAM:4GB
+rodzaj i prędkość procesora: Intel Pentium CPU 2020M @ 2.40 GHz
+system:64-bitowy
